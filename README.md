@@ -37,4 +37,4 @@ In the final stage, the optimized intermediate code is translated into the machi
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/Compiler-Construction-Lab.git
+   git clone https://github.com/ItxmeUmer/Compiler-Construction-Lab.git
